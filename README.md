@@ -10,4 +10,4 @@ Tampilan
 
 Website : https://najmarra.github.io/SSCT-Landing-Page/
 
-Source : https://tiketwisata.surabaya.go.id/destination/bus-ssct--balai-pemuda--surabaya-sightseeing-and-city-tour-
+Referensi : https://tiketwisata.surabaya.go.id/destination/bus-ssct--balai-pemuda--surabaya-sightseeing-and-city-tour-
